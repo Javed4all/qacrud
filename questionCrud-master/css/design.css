@@ -1,0 +1,14 @@
+*{
+    font-family: 'Yatra One', cursive;
+}
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+i {
+    cursor: pointer;
+}
